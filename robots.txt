@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4z6fav.yume-maboroshi.com/sitemap.xml
